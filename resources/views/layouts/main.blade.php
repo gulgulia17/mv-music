@@ -14,7 +14,7 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://mv-music.herokuapp.com/">
+    <meta property="og:url" content="http://mv-music.jatinwardhan.com/">
     <meta property="og:title" content="@yield('title','Welcome') -- MV-Music">
     <meta property="og:description" content="MV Music is a studio where you can compose your songs, and we also publish our albums frequently so subscribe to our site now.
 
@@ -23,7 +23,7 @@
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="http://mv-music.herokuapp.com/">
+    <meta property="twitter:url" content="http://mv-music.jatinwardhan.com/">
     <meta property="twitter:title" content="@yield('title','Welcome') -- MV-Music">
     <meta property="twitter:description" content="MV Music is a studio where you can compose your songs, and we also publish our albums frequently so subscribe to our site now.
 
