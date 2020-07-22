@@ -94,7 +94,7 @@
                 </div>
             </div>
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1761.7009837049593!2d73.30932655795876!3d27.9815958143258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x393fe7bce080f365%3A0x19a5331c7580082b!2sVyapar%20Nagar%2C%20Kisamidesar%2C%20Rajasthan!5e0!3m2!1sen!2sin!4v1589898443602!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d220.13360235385284!2d73.29791464745013!3d28.020268763816063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x393fdd5d251c589b%3A0x7218fa88f147d738!2sJassusar%20Gate!5e0!3m2!1sen!2sin!4v1595401851382!5m2!1sen!2sin"
                 class="col-md-12 my-2" height="300" frameborder="0">
             </iframe>
         </div>
