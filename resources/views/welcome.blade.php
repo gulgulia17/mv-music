@@ -59,8 +59,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <div class="title mx-auto">
-                    <h1 class="text-light font-sm-title">One good thing about music, when it hits you, you feel no
-                        pain.</h1>
+                    <h1 class="text-light font-sm-title">Come join us and expose your talent.</h1>
                     <div class="title-divider"></div>
                     <div class="margin-minus">
                         <span class="mx-2">
